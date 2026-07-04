@@ -1,8 +1,8 @@
-[![Contributors](https://img.shields.io/github/contributors/pawpawly/ci4-projectmagang)](https://github.com/pawpawly/ci4-projectmagang/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/pawpawly/ci4-projectmagang)](https://github.com/pawpawly/ci4-projectmagang/network/members)
-[![Stars](https://img.shields.io/github/stars/pawpawly/ci4-projectmagang)](https://github.com/pawpawly/ci4-projectmagang/stargazers)
-[![Issues](https://img.shields.io/github/issues/pawpawly/ci4-projectmagang)](https://github.com/pawpawly/ci4-projectmagang/issues)
-[![License](https://img.shields.io/github/license/pawpawly/ci4-projectmagang)](LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/pawpawly/museum-kayuh-baimbai)](https://github.com/pawpawly/museum-kayuh-baimbai/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/pawpawly/museum-kayuh-baimbai)](https://github.com/pawpawly/museum-kayuh-baimbai/network/members)
+[![Stars](https://img.shields.io/github/stars/pawpawly/museum-kayuh-baimbai)](https://github.com/pawpawly/museum-kayuh-baimbai/stargazers)
+[![Issues](https://img.shields.io/github/issues/pawpawly/museum-kayuh-baimbai)](https://github.com/pawpawly/museum-kayuh-baimbai/issues)
+[![License](https://img.shields.io/github/license/pawpawly/museum-kayuh-baimbai)](LICENSE)
 
 # Project Magang - CodeIgniter 4
 
@@ -29,12 +29,12 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 ### Langkah Instalasi
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/pawpawly/ci4-projectmagang.git
+   git clone https://github.com/pawpawly/museum-kayuh-baimbai.git
    ```
 
 2. **Masuk ke direktori proyek**:
    ```bash
-   cd ci4-projectmagang
+   cd museum-kayuh-baimbai
    ```
 
 3. **Install dependencies** menggunakan Composer:
@@ -96,7 +96,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 Berikut adalah struktur utama proyek:
 
 ```
-ci4-projectmagang/
+museum-kayuh-baimbai/
 ├── app/                   # Direktori utama aplikasi
 │   ├── Controllers/       # Controller utama
 │   ├── Models/            # Model untuk database
